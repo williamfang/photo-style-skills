@@ -1,0 +1,4 @@
+interface:
+  display_name: "Yanfilm Style"
+  short_description: "把普通照片转成克制自然、生活化且可复用的盐系胶片影像"
+  default_prompt: "Use $yanfilm-style to turn my photo into a restrained salt-film style image."

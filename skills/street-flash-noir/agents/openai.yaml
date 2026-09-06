@@ -1,0 +1,4 @@
+interface:
+  display_name: "街头闪光黑白"
+  short_description: "粗颗粒高反差街拍，融合直闪、拖影、反射与倾斜快拍"
+  default_prompt: "用 $street-flash-noir 将我提供的人物放进自由创作的新街头场景，只吸收例图的摄影质感，生成一张。"
