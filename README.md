@@ -8,6 +8,7 @@
 |---|---|---|
 | [`yanfilm-style`](skills/yanfilm-style) | 克制、自然、生活化的盐系胶片影像与角色替换 | `$yanfilm-style` |
 | [`street-flash-noir`](skills/street-flash-noir) | 粗颗粒高反差黑白街拍，支持倾斜快拍、直闪、拖影和反射 | `$street-flash-noir` |
+| [`flat-guofeng-landscape`](skills/flat-guofeng-landscape) | 21:9 扁平展开写实国风自然风景，强调层峦、云雾、水岸和自然留白 | `$flat-guofeng-landscape` |
 
 ## 安装单个 skill
 
@@ -17,7 +18,7 @@ python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-githu
   --path skills/street-flash-noir
 ```
 
-将 `skills/street-flash-noir` 替换为 `skills/yanfilm-style`，即可安装另一个风格。
+将 `skills/street-flash-noir` 替换为 `skills/yanfilm-style` 或 `skills/flat-guofeng-landscape`，即可安装另一个风格。
 
 ## 使用示例
 
@@ -27,6 +28,10 @@ python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-githu
 
 ```text
 用 $yanfilm-style，把这张角色照片变成盐系胶片生活写真。
+```
+
+```text
+用 $flat-guofeng-landscape 生成 4 张 21:9 扁平展开写实国风风景，分别做春晨水乡、夏雨山谷、秋日湖山、冬雪古村。
 ```
 
 ## 目录约定

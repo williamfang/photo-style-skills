@@ -1,0 +1,5 @@
+interface:
+  display_name: "扁平国风写实风景"
+  short_description: "生成21:9横向展开的写实国风自然风景照片"
+  default_prompt: "用 $flat-guofeng-landscape 生成几张 21:9 扁平展开写实国风风景，场景自由组合。"
+
