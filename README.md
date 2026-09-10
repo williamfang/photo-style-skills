@@ -2,6 +2,8 @@
 
 方崴的可复用照片风格 Codex skills 集合。每个风格独立维护在 `skills/` 下，例图只用于对应 skill 的视觉分析，不会自动作为生成构图模板。
 
+如果这些 skill 对你有帮助，欢迎赞助支持： [Ko-fi.com/williamfang](https://ko-fi.com/williamfang)
+
 ## 风格目录
 
 | Skill | 用途 | 调用 |
